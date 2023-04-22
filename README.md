@@ -2,9 +2,9 @@
 ## An educational ML Project using Regression to predict home values
 
 ## Project Goals
-* Identify key features that can be used to create an effective predictive model.
-* Use regression models to make house price predictions.
-* Use findings to make recommendations and establish a foundation for future work to improve model's performance.
+* Identify key drivers of value for single family properties.
+* Build a Machine Learning Regression model that effectively predicts property tax assessed values using the identified drivers.
+* Review findings and provide recommendations for future improvements of the model's performance.
 
 ## The Plan
 ### Acquire the data from Codeup mySQL database
